@@ -1,13 +1,13 @@
 ######################## default configuration ####################
 baseURL = "https://demo.gethugothemes.com/fcs/abet/"
 title = "ABET | Fuculty of Computer Science"
-theme = "educenter-hugo"
+theme = "fcs-hugo"
 # post pagination
 paginate = "6"
 # post excerpt
 summaryLength = "10"
 # disqus short name
-disqusShortname = "educenter" # get your shortname form here : https://disqus.com
+disqusShortname = "fcs" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = [] # desable language from here
 

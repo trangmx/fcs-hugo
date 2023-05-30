@@ -45,11 +45,11 @@ link = "plugins/google-map/gmap.js"
 [params]
 logo = "images/logo_new.png"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "ABET website of the Faculty of Computer Science, Phenikaa University"
+author = "Mai Xuan Trang"
 # contact info
-address = "9567 Turner Trace Apt. BC C3G8A4"
-mobile = "+84 1234565523"
+address = "Yen Nghia - Ha Dong - Ha Noi"
+mobile = "+84 2462918118"
 email = "cs@phenikaa-uni.edu.vn"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
@@ -87,7 +87,7 @@ expire_days = 2
 [[params.social]]
 title = "facebook"
 icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.facebook.com/cs.phenikaa.uni"
 
 #[[params.social]]
 #title = "twitter"
@@ -102,7 +102,7 @@ link = "#"
 [[params.social]]
 title = "github"
 icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://github.com/PhenikaaCS"
 
 #[[params.social]]
 #title = "linkedin"
@@ -118,7 +118,7 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = "Copyright &copy; 2023 [Faculty of Computer Science](https://cs.phenikaa-uni.edu.vn/)"
+copyright = "Copyright &copy; 2023 [Faculty of Computer Science, Phenikaa University](https://cs.phenikaa-uni.edu.vn/)"
 
 
 

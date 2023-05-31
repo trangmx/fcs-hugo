@@ -131,49 +131,97 @@ url = "about/"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "course"
-url = "course/"
 weight = 2
-
-[[Languages.en.menu.main]]
-weight = 3
-name = "Pages"
+name = "Admission"
 hasChildren = true
 
   [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "teacher"
+  parent = "Admission"
+  weight = 1
+  name = "Undergraduate"
   url = "teacher/"
 
   [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "notice"
+  parent = "Admission"
+  weight = 2
+  name = "Graduate"
+  url = "notice/"
+
+[[Languages.en.menu.main]]
+weight = 3
+name = "Academics"
+hasChildren = true
+
+  [[Languages.en.menu.main]]
+  parent = "Academics"
+  weight = 1
+  name = "Undergraduate Programs"
+  url = "teacher/"
+
+  [[Languages.en.menu.main]]
+  parent = "Academics"
+  weight = 2
+  name = "Graduate Programs"
   url = "notice/"
 
   [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "event"
-  url = "event/"
+  parent = "Academics"
+  weight = 3
+  name = "Courses"
+  url = "course/"
 
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "scholarship"
-  url = "scholarship/"
-
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "research"
-  url = "research/"
-  
 [[Languages.en.menu.main]]
-name = "blog"
-url = "blog/"
 weight = 4
-  
+name = "Research"
+hasChildren = true
+  [[Languages.en.menu.main]]
+  parent = "Research"
+  name = "publications"
+  url = "research/"
+
+  [[Languages.en.menu.main]]
+  parent = "Research"
+  name = "research focuses"
+  url = "research/"
+
+  [[Languages.en.menu.main]]
+  parent = "Research"
+  name = "research labs"
+  url = "research/"
+
 [[Languages.en.menu.main]]
-name = "Contact"
-url = "contact/"
 weight = 5
+name = "People"
+hasChildren = true
+
+  [[Languages.en.menu.main]]
+  parent = "People"
+  weight = 1
+  name = "Leadership"
+  url = "teacher/"
+
+  [[Languages.en.menu.main]]
+  parent = "People"
+  weight = 2
+  name = "faculty"
+  url = "teacher/"
+
+  [[Languages.en.menu.main]]
+  parent = "People"
+  weight = 3
+  name = "staff"
+  url = "teacher/"
+
+  [[Languages.en.menu.main]]
+  parent = "People"
+  weight = 4
+  name = "Directory"
+  url = "teacher/"
+
+[[Languages.en.menu.main]]
+name = "News"
+url = "news/"
+weight = 6
 
 
 # footer menu

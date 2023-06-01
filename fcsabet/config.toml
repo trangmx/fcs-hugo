@@ -43,7 +43,7 @@ link = "plugins/google-map/gmap.js"
 
 #################### default parameters ################################
 [params]
-logo = "images/logo_new.png"
+logo = "images/logo_white.png"
 # Meta data
 description = "ABET website of the Faculty of Computer Science, Phenikaa University"
 author = "Mai Xuan Trang"
@@ -65,7 +65,7 @@ preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 
 # Subscription
 [params.subscription]
-enable = true
+enable = false
 # mailchimp subsciption
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
@@ -131,7 +131,35 @@ url = "about/"
 weight = 1
 
 [[Languages.en.menu.main]]
-weight = 2
+weight = 3
+name = "Academics"
+hasChildren = true
+
+  [[Languages.en.menu.main]]
+  parent = "Academics"
+  weight = 1
+  name = "ABET Accreditation"
+  url = "abet-accreditation/"
+
+  #[[Languages.en.menu.main]]
+  #parent = "Academics"
+  #weight = 2
+  #name = "Undergraduate Studies"
+
+  [[Languages.en.menu.main]]
+  parent = "Academics"
+  weight = 3
+  name = "Graduate Studies"
+  url = "notice/"
+
+  [[Languages.en.menu.main]]
+  parent = "Academics"
+  weight = 4
+  name = "Courses"
+  url = "course/"
+
+[[Languages.en.menu.main]]
+weight = 3
 name = "Admission"
 hasChildren = true
 
@@ -146,29 +174,6 @@ hasChildren = true
   weight = 2
   name = "Graduate"
   url = "notice/"
-
-[[Languages.en.menu.main]]
-weight = 3
-name = "Academics"
-hasChildren = true
-
-  [[Languages.en.menu.main]]
-  parent = "Academics"
-  weight = 1
-  name = "Undergraduate Programs"
-  url = "teacher/"
-
-  [[Languages.en.menu.main]]
-  parent = "Academics"
-  weight = 2
-  name = "Graduate Programs"
-  url = "notice/"
-
-  [[Languages.en.menu.main]]
-  parent = "Academics"
-  weight = 3
-  name = "Courses"
-  url = "course/"
 
 [[Languages.en.menu.main]]
 weight = 4

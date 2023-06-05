@@ -111,3 +111,12 @@
 
 - id: abet_accredited_programs
   translation: Undergraduate Programs Being Prepared for ABET Accreditation
+
+- id: see_details
+  translation: See details
+
+- id: credits
+  translation: Credits
+
+- id: ask_more
+  translation: Ask More

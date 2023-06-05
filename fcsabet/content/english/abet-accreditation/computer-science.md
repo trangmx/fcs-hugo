@@ -7,54 +7,46 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Computer Science Program"
 # course thumbnail
-image: "images/courses/course-2.jpg"
-# taxonomy
-category: "Mathematics"
-# teacher
-teacher: "Jacke Mastio"
-# duration
-duration : "06 Month"
-# weekly
-weekly : "03 hours"
-# course fee
-fee : "From: $699"
-# apply url
-apply_url : "#"
+image: "images/programs/cs.png"
+duration : "04 Years"
+# credits
+credits: "135 credits"
+apply_url : "/contact"
 # type
-type: "abetprogram"
+type: "abet-accreditation"
 ---
 
-
-### About Course
-
-Computer Science Program</p>
-
-### Requirements
-
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
+The Phenikaa University University [Computer Science Program](#) is being prepared for [ABET](www.abet.org) accreditation.
 
 
-### How to Apply
+## Program Educational Objectives
 
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
+* **PEO 1:** Our graduates will engage in the productive practice of modeling and designing computer-based systems across a broad range of application areas.
+
+* **PEO 2:** Our graduates will have successful careers in industry or academia, providing leadership for their profession.
+
+* **PEO 3:** Our graduates will be productive and ethical professionals.
+
+## Student Outcomes
+
+* **1.** Analyze a complex computing problem and apply principles of computing and other relevant disciplines to identify solutions. 
+
+* **2.**	Design, implement, and evaluate a computing-based solution to meet a given set of computing requirements in the context of the program's discipline.  
+
+* **3.** Communicate effectively in a variety of professional contexts.
+
+* **4.** Recognize professional responsibilities and make informed judgments in computing practice based on legal and ethical principles. 
+
+* **5.** Function effectively as a member or leader of a team engaged in activities appropriate to the program's discipline.  
+
+* **6.** Apply computer science theory and software development fundamentals to produce computing-based solutions.
 
 
-### Fees and Funding
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+## Undergraduate Enrollment and Degrees Award
+
+| Year | Enrollment | Degrees Awarded |
+|------|------------|-----------------|
+| 2023 |            |        0        |
+| 2022 |     62     |        0        |
+| 2021 |     51     |        0        |

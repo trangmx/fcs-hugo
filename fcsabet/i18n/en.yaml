@@ -120,3 +120,12 @@
 
 - id: ask_more
   translation: Contact
+
+- id: pu_nav
+  translation: PU Navigation
+
+- id: cs_nav
+  translation: CS Navigation
+
+- id: office
+  translation: Office Contact

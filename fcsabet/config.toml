@@ -44,13 +44,14 @@ link = "plugins/google-map/gmap.js"
 #################### default parameters ################################
 [params]
 logo = "images/logo_white.png"
+footer_logo = "images/Logo_cs.png"
 # Meta data
 description = "ABET website of the Faculty of Computer Science, Phenikaa University"
 author = "Mai Xuan Trang"
 # contact info
-address = "Yen Nghia - Ha Dong - Ha Noi"
-mobile = "+84 2462918118"
-email = "cs@phenikaa-uni.edu.vn"
+address = "15 Floor, A9 Bld., Phenikaa University, Ha Noi"
+mobile = "Phone: +84 2462918118"
+email = "Email: cs@phenikaa-uni.edu.vn"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
@@ -228,20 +229,15 @@ name = "News"
 url = "news/"
 weight = 6
 
+# PU nav footer menu
+[[Languages.en.menu.punav]]
+name = "PU Web"
+url = "https://phenikaa-uni.edu.vn/en"
 
 # footer menu
-
 [[Languages.en.menu.footer]]
 name = "teacher"
 url = "teacher/"
-
-[[Languages.en.menu.footer]]
-name = "notice"
-url = "notice/"
-
-[[Languages.en.menu.footer]]
-name = "event"
-url = "event/"
 
 [[Languages.en.menu.footer]]
 name = "scholarship"

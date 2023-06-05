@@ -3,9 +3,9 @@ title: "Computer Science"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/cs-page-title.jpg"
 # meta description
-description : "Computer Science Program"
+description : "Computer Science Program (Preparing for ABET accreditation)"
 # course thumbnail
 image: "images/programs/cs.png"
 duration : "04 Years"
@@ -16,7 +16,7 @@ apply_url : "/contact"
 type: "abet-accreditation"
 ---
 
-The Phenikaa University University [Computer Science Program](#) is being prepared for [ABET](www.abet.org) accreditation.
+The Phenikaa University University [Computer Science Program](#) is being prepared for [ABET](https://www.abet.org/) accreditation by the Computing Accreditation Commission.
 
 
 ## Program Educational Objectives

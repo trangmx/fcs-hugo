@@ -6,9 +6,12 @@ bg_image: "images/backgrounds/page-title.jpg"
 # about image
 #image: "images/about/about-page.jpg"
 # meta description
-description : "Undergraduate programs (IT and CS) are being prepared for ABET Accreditation."
+description : ""
 ---
 Accreditation provides assurance that a college or university program meets the quality standards of the profession for which that program prepares graduates. Accreditation of engineering and computing programs ensures programs meet standards to produce graduates ready to enter technical fields that are leading the way in innovation and emerging technologies.
+
+The Computer Science and Information Technology undergraduate programs program will be seeking initial accreditation by the Computing Accreditation Commission of ABET, [www.abet.org](https://www.abet.org/), in the 2025-26 accreditation cycle. The Software Engineering undergraduate program is preparing to seek for an initial accreditation by the Engineering Accreditation Commission.
+
 
 ## Program Information
 One component of the accreditation criteria requires each program pursuing accreditation to formulate Program Educational Objectives in consultation with their program-defined constituents. ABET defines Program Educational Objectives as “broad statements that describe what graduates are expected to attain within a few years after graduation.”

@@ -125,7 +125,10 @@
   translation: PU Navigation
 
 - id: cs_nav
-  translation: CS Navigation
+  translation: FCS Navigation
 
 - id: office
   translation: Office Contact
+
+- id: our_leaders
+  translation: Our Leaders

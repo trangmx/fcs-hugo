@@ -1,8 +1,8 @@
 ---
-title: "Research Focuses"
+title: "Undergraduate Programs"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Research focuses at FCS"
+description : "Undergraduate programs at FCS."
 ---

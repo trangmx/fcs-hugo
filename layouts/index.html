@@ -84,8 +84,8 @@
 {{ end }}
 <!-- /about us -->
 
-<!-- blog -->
-{{ if $data.homepage.blog.enable }}
+<!-- news -->
+{{ if $data.homepage.news.enable }}
 <section class="section">
   <div class="container">
     <div class="row">
@@ -114,16 +114,16 @@
 
 
 <!-- courses -->
-{{ if $data.homepage.course.enable }}
+{{ if $data.homepage.program.enable }}
 <section class="section-sm">
   <div class="container">
     <div class="row">
       <div class="col-12">
         <div class="d-flex align-items-center section-title justify-content-between">
-          <h2 class="mb-0 text-nowrap mr-3">{{ $data.homepage.course.title }}</h2>
+          <h2 class="mb-0 text-nowrap mr-3">{{ $data.homepage.program.title }}</h2>
           <div class="border-top w-100 border-primary d-none d-sm-block"></div>
           <div>
-            <a href="{{ `course` | relLangURL }}" class="btn btn-sm btn-outline-primary ml-sm-3 d-none d-sm-block">{{ i18n "see_all" }}</a>
+            <a href="{{ `program` | relLangURL }}" class="btn btn-sm btn-outline-primary ml-sm-3 d-none d-sm-block">{{ i18n "see_all" }}</a>
           </div>
         </div>
       </div>
@@ -131,7 +131,7 @@
     <!-- course list -->
     <div class="row justify-content-center">
       <!-- course item -->
-      {{ range first 6 (where site.RegularPages "Type" "course")}}
+      {{ range first 3 (where site.RegularPages "Type" "in" site.Params.program_type)}}
       <div class="col-lg-4 col-sm-6 mb-5">
         {{ .Render "course" }}
       </div>

@@ -11,7 +11,7 @@ image: "images/courses/course-1.jpg"
 # taxonomy
 category: "Photography"
 # teacher
-teacher: "Clark Malik"
+teacher: "Abc"
 # duration
 duration : "06 Month"
 # weekly

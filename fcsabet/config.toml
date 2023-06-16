@@ -141,18 +141,12 @@ hasChildren = true
   [[Languages.en.menu.main]]
   parent = "Academics"
   weight = 1
-  name = "ABET Accreditation"
-  url = "abet-accreditation/"
-
-  [[Languages.en.menu.main]]
-  parent = "Academics"
-  weight = 2
   name = "Undergraduate Studies"
   url = "undergraduate-program/"
 
   [[Languages.en.menu.main]]
   parent = "Academics"
-  weight = 3
+  weight = 2
   name = "Graduate Studies"
   url = "graduate-program/"
 

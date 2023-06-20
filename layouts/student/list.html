@@ -1,0 +1,36 @@
+{{ define "main" }}
+
+{{ $data := index site.Data site.Language.Lang }}
+
+<!-- about -->
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        {{ with .Params.image }}
+        <img class="img-fluid w-100 mb-4" src="{{ . | relURL }}" alt="about image">
+        {{ end }}
+        {{ .Content }}
+      </div>
+    </div>
+  </div>
+  <br>
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h3 class="section-title">{{ i18n "abet_accredited_programs" }}</h3>
+      </div>
+    </div>
+    <div class="row justify-content-center">
+      <!-- teacher -->
+      {{ range first 3 (where site.RegularPages "Type" "abet-accreditation")}}
+      <div class="col-lg-4 col-sm-6 mb-5 mb-lg-0">
+        {{ .Render "course" }}
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+<!-- /about -->
+
+{{ end }}

@@ -170,7 +170,7 @@ hasChildren = true
   [[Languages.en.menu.main]]
   parent = "Students"
   weight = 2
-  name = "Graduate Studies"
+  name = "Student Clubs"
   url = "#"
 
 [[Languages.en.menu.main]]

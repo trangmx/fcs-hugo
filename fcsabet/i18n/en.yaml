@@ -101,7 +101,7 @@
   translation: All
 
 - id: interest
-  translation: SUMMARY OF ACTIVITIES/INTERESTS
+  translation: RESEARCH INTERESTS
 
 - id: our_teachers
   translation: Our Teachers
@@ -131,4 +131,4 @@
   translation: Office Contact
 
 - id: our_leaders
-  translation: Our Leaders
+  translation: Our Members

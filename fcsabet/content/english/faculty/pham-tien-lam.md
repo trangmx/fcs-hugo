@@ -1,25 +1,25 @@
 ---
-title: "Assoc. Prof. Ngo Hong Son"
+title: "Pham Tien Lam, Ph.D"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/cs-page-title.jpg"
 # meta description
 description : ""
 # teacher portrait
-image: "images/people/faculty/ngo-hong-son.jpg"
+image: "images/people/faculty/pham-tien-lam.jpg"
 # course
-course: "Information Technology"
+course: "Computer Science"
 # biography
-bio: "Dean of the Faculty"
-pos: "Dean"
+bio: "Computer Science Program Chair"
+pos: "Program Chair"
 # interest
 interest: ["TBU"]
 # contact info
 contact:
   # contact item loop
-  - name : "son.ngohong@phenikaa-uni.edu.vn"
+  - name : "lam.phamtien@phenikaa-uni.edu.vn"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "mailto:son.ngohong@phenikaa-uni.edu.vn"
+    link : "mailto:lam.phamtien@phenikaa-uni.edu.vn"
 
   # contact item loop
   - name : "+84 xxxxxxxx"
@@ -27,12 +27,12 @@ contact:
     link : "tel:+84 xxxxxxxx"
 
   # contact item loop
-  - name : "Ngo Hong Son"
+  - name : "Pham Tien Lam"
     icon : "ti-google" # icon pack : https://themify.me/themify-icons
     link : "#"
 
   # contact item loop
-  - name : "Ngo Hong Son"
+  - name : "Pham Tien Lam"
     icon : "ti-linkedin" # icon pack : https://themify.me/themify-icons
     link : "#"
 

@@ -165,7 +165,7 @@ hasChildren = true
   parent = "Students"
   weight = 1
   name = "Academic Advisors"
-  url = "#"
+  url = "student/academic-advisors/"
 
   [[Languages.en.menu.main]]
   parent = "Students"

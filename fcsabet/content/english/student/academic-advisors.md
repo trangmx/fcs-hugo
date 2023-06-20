@@ -17,8 +17,8 @@ apply_url : "/contact"
 type: "student"
 ---
 
-| Year | No. Students | Academic Advisors |
-|------|------------|-----------------|
-| 2023-2024 |            |                |
-| 2022-2023 |     110     |        [See detail](https://phenikaacs.notion.site/Student-Academic-Advisory-Board-d910e6e4439443348a18e81eecd6da71)         |
-| 2021-2022 |     51     |        [See detail](https://phenikaacs.notion.site/Student-Academic-Advisory-Board-d910e6e4439443348a18e81eecd6da71)        |
+| Year  | Academic Advisors |
+|------|-----------------|
+| 2023-2024 |                |
+| 2022-2023 |        [See detail](https://phenikaacs.notion.site/Student-Academic-Advisory-Board-d910e6e4439443348a18e81eecd6da71)         |
+| 2021-2022 |        [See detail](https://phenikaacs.notion.site/Student-Academic-Advisory-Board-d910e6e4439443348a18e81eecd6da71)        |

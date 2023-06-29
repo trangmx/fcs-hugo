@@ -28,21 +28,21 @@ List of academic advisors and assigned advisees are organized as following:
 
 | Class   | Detail                                        |
 |---------|-----------------------------------------------|
-| K16-IT1 | [See Detail](/fcs/abet/docs/students/2022-2023_K16-IT1.pdf) |
-| K16-IT2 | [See Detail](/fcs/abet/docs/students/2022-2023_K16-IT2.pdf) |
-| K16-IT3 | [See Detail](/fcs/abet/docs/students/2022-2023_K16-IT3.pdf) |
-| K16-IT4 | [See Detail](/fcs/abet/docs/students/2022-2023_K16-IT4.pdf) |
-| K16-IT5 | [See Detail](/fcs/abet/docs/students/2022-2023_K16-IT5.pdf) |
-| K15-IT1 | [See Detail](/fcs/abet/docs/students/2022-2023_K15-IT1.pdf) |
-| K15-IT2 | [See Detail](/fcs/abet/docs/students/2022-2023_K15-IT2.pdf) |
-| K15-IT3 | [See Detail](/fcs/abet/docs/students/2022-2023_K15-IT3.pdf) |
-| K15-IT4 | [See Detail](/fcs/abet/docs/students/2022-2023_K15-IT4.pdf) |
-| K15-IT5 | [See Detail](/fcs/abet/docs/students/2022-2023_K15-IT5.pdf) |
-| K14-IT1 | [See Detail](/fcs/abet/docs/students/2022-2023_K14-IT1.pdf) |
-| K14-IT2 | [See Detail](/fcs/abet/docs/students/2022-2023_K14-IT2.pdf) |
-| K14-IT3 | [See Detail](/fcs/abet/docs/students/2022-2023_K14-IT3.pdf) |
-| K14-IT4 | [See Detail](/fcs/abet/docs/students/2022-2023_K14-IT4.pdf) |
-| K13-IT  | [See Detail](/fcs/abet/docs/students/2022-2023_K13-IT.pdf)  |
+| K16-IT1 | [See Detail](/docs/students/2022-2023_K16-IT1.pdf) |
+| K16-IT2 | [See Detail](/docs/students/2022-2023_K16-IT2.pdf) |
+| K16-IT3 | [See Detail](/docs/students/2022-2023_K16-IT3.pdf) |
+| K16-IT4 | [See Detail](/docs/students/2022-2023_K16-IT4.pdf) |
+| K16-IT5 | [See Detail](/docs/students/2022-2023_K16-IT5.pdf) |
+| K15-IT1 | [See Detail](/docs/students/2022-2023_K15-IT1.pdf) |
+| K15-IT2 | [See Detail](/docs/students/2022-2023_K15-IT2.pdf) |
+| K15-IT3 | [See Detail](/docs/students/2022-2023_K15-IT3.pdf) |
+| K15-IT4 | [See Detail](/docs/students/2022-2023_K15-IT4.pdf) |
+| K15-IT5 | [See Detail](/docs/students/2022-2023_K15-IT5.pdf) |
+| K14-IT1 | [See Detail](/docs/students/2022-2023_K14-IT1.pdf) |
+| K14-IT2 | [See Detail](/docs/students/2022-2023_K14-IT2.pdf) |
+| K14-IT3 | [See Detail](/docs/students/2022-2023_K14-IT3.pdf) |
+| K14-IT4 | [See Detail](/docs/students/2022-2023_K14-IT4.pdf) |
+| K13-IT  | [See Detail](/docs/students/2022-2023_K13-IT.pdf)  |
 
 ---
 #### CS Program
@@ -51,5 +51,5 @@ List of academic advisors and assigned advisees are organized as following:
 
 | Class   | Detail                                        |
 |---------|-----------------------------------------------|
-| K16-CS | [See Detail](/fcs/abet/docs/students/2022-2023_K16-CS.pdf) |
-| K15-CS | [See Detail](/fcs/abet/docs/students/2022-2023_K15-CS.pdf) |
+| K16-CS | [See Detail](/docs/students/2022-2023_K16-CS.pdf) |
+| K15-CS | [See Detail](/docs/students/2022-2023_K15-CS.pdf) |

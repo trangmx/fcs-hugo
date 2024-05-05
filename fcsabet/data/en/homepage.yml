@@ -11,19 +11,30 @@ slider:
       # available animation : left, right, up, down
       button:
         enable: true
-        label: "Apply now"
-        link: "contact/"
+        label: "Our Mission & Vision"
+        link: "program/"
 
     # slider item loop
-    - title: "Your bright future is our mission"
-      content: "We are committed to providing our students with the best possible education and training in the field of computer science and information technology."
+    - title: "Empower Our World with Technology"
+      content: "Discover diverse academic programs and opportunities to help you achieve your goals."
       animation_in: "left"
       animation_out: "right"
       # available animation : left, right, up, down
       button:
         enable: true
-        label: "Apply now"
-        link: "contact/"
+        label: "Our Programmes"
+        link: "program/"
+
+      # slider item loop
+    - title: "Aim for High Quality Education"
+      content: "Accreditation provides assurance that a college or university program meets the quality standards of the profession for which that program prepares graduates."
+      animation_in: "left"
+      animation_out: "right"
+      # available animation : left, right, up, down
+      button:
+        enable: true
+        label: "ABET Accreditation"
+        link: "abet-accreditation/"
 
 ############################### Banner feature ###############################
 # banner_feature:

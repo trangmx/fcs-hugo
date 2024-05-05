@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/fcs/abet/"
-title = "ABET | Faculty of Computer Science"
+baseURL = "http://100.103.157.29:8081"
+title = "Faculty of Computing and Information Science"
 theme = "fcs-hugo"
 # post pagination
 paginate = "6"
@@ -46,8 +46,8 @@ link = "plugins/google-map/gmap.js"
 logo = "images/logo_white.png"
 footer_logo = "images/Logo_cs.png"
 # Meta data
-description = "ABET website of the Faculty of Computer Science, Phenikaa University"
-author = "Mai Xuan Trang"
+description = "The Faculty of Computing and Information Science, Phenikaa University is regconised among the top regional (North Vietnam) for computer science."
+author = "Faculty of Computing and Information Science"
 # contact info
 address = "15th Floor, A9 Bld., Phenikaa University, Ha Noi"
 mobile = "Phone: +84 2462918118"
@@ -121,7 +121,7 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = "Copyright &copy; 2023 [Faculty of Computer Science, Phenikaa University](https://cs.phenikaa-uni.edu.vn/)"
+copyright = "Copyright &copy; 2024 [Faculty of Computing and Information Science, Phenikaa University](https://cis.phenikaa-uni.edu.vn/)"
 
 
 
@@ -234,5 +234,3 @@ weight = 2
 name = "People"
 url = "people/"
 weight = 3
-
-

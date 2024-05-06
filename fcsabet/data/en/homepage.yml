@@ -1,7 +1,7 @@
 ################################# Slider #####################################
 slider:
   enable: true
-  bg_image: "images/banner/fcs_members_1.JPG"
+  bg_image: "images/banner/pu_comp.jpeg"
   slider_item:
     # slider item loop
     - title: "Your bright future is our mission"
@@ -12,7 +12,7 @@ slider:
       button:
         enable: true
         label: "Our Mission & Vision"
-        link: "program/"
+        link: "about/vision-mission/"
 
     # slider item loop
     - title: "Empower Our World with Technology"
@@ -34,7 +34,7 @@ slider:
       button:
         enable: true
         label: "ABET Accreditation"
-        link: "abet-accreditation/"
+        link: "abet/"
 
 ############################### Banner feature ###############################
 # banner_feature:
@@ -83,7 +83,7 @@ blog:
 ############################# blog ################################
 news:
   enable: true
-  title: "FCS News"
+  title: "In the Spotlight"
   # blog item comes from "content/**/news" folder.
 
 ############################# Course ################################
@@ -95,7 +95,7 @@ course:
 ############################# Program ################################
 program:
   enable: true
-  title: "Our Program"
+  title: "Education"
   # course item comes from "content/**/course" folder.
 
 ########################## Call to action ############################
@@ -123,7 +123,7 @@ cta:
 ############################# event ################################
 event:
   enable: true
-  title: "Upcoming Events"
+  title: "Events"
   # event item comes from "content/**/event" folder.
 
 ########################### funfacts ############################
@@ -132,17 +132,17 @@ funfacts:
   funfact_item:
     # funfact item loop
     - name: "FACULTIES"
-      count: "40"
+      count: "42"
 
     # funfact item loop
-    - name: "PROGRAMS"
+    - name: "PROGRAMMES"
       count: "5"
 
     # funfact item loop
     - name: "STUDENTS"
-      count: "1400"
+      count: "2200"
 
     # funfact item loop
     - name: "INDUSTRY PARTNERS"
-      count: "20"
+      count: "40"
 # funfact is for about page

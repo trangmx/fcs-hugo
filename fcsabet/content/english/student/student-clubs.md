@@ -14,7 +14,7 @@ category: "136 credits"
 credits: "136 credits"
 apply_url : "/contact"
 # type
-type: "abet-accreditation"
+type: "student"
 ---
 
 The Phenikaa University [Information Technology program](https://cs.phenikaa-uni.edu.vn/vi/post/dao-tao/dao-tao-dai-hoc/cong-nghe-thong-tin) is being prepared for [ABET](https://www.abet.org/) accreditation by the Computing Accreditation Commission (CAC).

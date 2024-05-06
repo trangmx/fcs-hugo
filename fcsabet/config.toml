@@ -43,6 +43,8 @@ link = "plugins/google-map/gmap.js"
 
 #################### default parameters ################################
 [params]
+uni_name = "Phenikaa University"
+uni_url = "https://phenikaa-uni.edu.vn/en"
 logo = "images/logo_white.png"
 footer_logo = "images/Logo_cs.png"
 # Meta data
@@ -59,7 +61,8 @@ google_analitycs_id = "" # your id
 # top header
 top_header = true
 # program type
-program_type = ['graduate-program', 'undergraduate-program', 'abet-accreditation']
+program_type = ['graduate-program', 'undergraduate-program', 'abet']
+undergraduate_type = ['undergraduate-program', 'abet']
 
 # Preloader
 [params.preloader]
@@ -102,10 +105,10 @@ link = "https://www.facebook.com/cs.phenikaa.uni"
 #icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
 #link = "#"
 
-[[params.social]]
-title = "github"
-icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "https://github.com/PhenikaaCS"
+#[[params.social]]
+#title = "github"
+#icon = "ti-github" # themify icon : https://themify.me/themify-icons
+#link = "https://github.com/PhenikaaCS"
 
 #[[params.social]]
 #title = "linkedin"
@@ -129,9 +132,22 @@ copyright = "Copyright &copy; 2024 [Faculty of Computing and Information Science
 
 # main menu
 [[Languages.en.menu.main]]
-name = "About"
-url = "about/"
 weight = 1
+name = "About"
+#url = "about/"
+hasChildren = true
+  
+  [[Languages.en.menu.main]]
+  parent = "About"
+  weight = 1
+  name = "Overview"
+  url = "about/"
+
+  [[Languages.en.menu.main]]
+  parent = "About"
+  weight = 2
+  name = "Vision & Mission"
+  url = "about/vision-mission"
 
 [[Languages.en.menu.main]]
 weight = 2
@@ -216,21 +232,26 @@ weight = 6
 
 # PU nav footer menu
 [[Languages.en.menu.punav]]
-name = "PU Website"
-url = "https://phenikaa-uni.edu.vn/en"
+name = "About Us"
+url = "about/"
+weight = 1
+[[Languages.en.menu.punav]]
+name = "Programmes"
+url = "program/"
+weight = 2
 
 # footer menu
 [[Languages.en.menu.footer]]
-name = "program"
-url = "program/"
+name = "University Website"
+url = "https://phenikaa-uni.edu.vn/en"
 weight = 1
 
 [[Languages.en.menu.footer]]
-name = "research"
-url = "research/"
+name = "Student Portal"
+url = "https://qldtbeta.phenikaa-uni.edu.vn"
 weight = 2
 
 [[Languages.en.menu.footer]]
-name = "People"
-url = "people/"
+name = "PU Canvas"
+url = "http://canvas.phenikaa-uni.edu.vn/"
 weight = 3

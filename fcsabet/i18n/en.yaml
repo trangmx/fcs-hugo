@@ -122,10 +122,10 @@
   translation: Contact
 
 - id: pu_nav
-  translation: PU Navigation
+  translation: PU Computing
 
 - id: cs_nav
-  translation: FCS Navigation
+  translation: Resources
 
 - id: office
   translation: Office Contact

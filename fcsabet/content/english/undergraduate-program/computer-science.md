@@ -14,7 +14,7 @@ category: "135 credits"
 credits: "135 credits"
 apply_url : "/contact"
 # type
-type: "abet-accreditation"
+type: "abet"
 ---
 
 The Phenikaa University University [Computer Science Program](https://cs.phenikaa-uni.edu.vn/vi/post/dao-tao/dao-tao-dai-hoc/khoa-hoc-may-tinh) is being prepared for [ABET](https://www.abet.org/) accreditation by the Computing Accreditation Commission.

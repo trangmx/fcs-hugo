@@ -1,5 +1,6 @@
 ######################## default configuration ####################
-baseURL = "http://100.103.157.29:8081"
+#baseURL = "http://localhost:1313"
+baseURL = "https://comp.phenikaa-uni.edu.vn"
 title = "Faculty of Computing and Information Science"
 theme = "fcs-hugo"
 # post pagination

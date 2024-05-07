@@ -14,6 +14,7 @@ author: "Trang Kyoto"
 # taxonomy
 categories: ["ABET"]
 tags: ["SSR", "IT"]
+related_people: ["Assoc. Prof. Ngo Hong Son", "Mai Xuan Trang, Ph.D"]
 # type
 type: "post"
 ---

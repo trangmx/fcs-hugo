@@ -43,6 +43,8 @@ contact:
 
 # type
 type: "faculty"
+
+in_the_news: true
 ---
 
 ### Degrees

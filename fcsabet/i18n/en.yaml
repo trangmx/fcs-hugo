@@ -8,7 +8,7 @@
   translation: send message
 
 - id: contact_info
-  translation: Contact Info
+  translation: Contact
 
 - id: subscribe_newsletter
   translation: Subscribe Newsletter
@@ -101,7 +101,7 @@
   translation: All
 
 - id: interest
-  translation: RESEARCH INTERESTS
+  translation: EDUCATION
 
 - id: our_teachers
   translation: Our Teachers
@@ -132,3 +132,6 @@
 
 - id: our_leaders
   translation: Our Members
+
+- id: in_the_news
+  translation: In the News

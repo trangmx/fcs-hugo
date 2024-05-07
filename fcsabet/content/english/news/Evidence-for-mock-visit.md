@@ -14,6 +14,7 @@ author: "Trang Kyoto"
 # taxonomy
 categories: ["ABET"]
 tags: ["Evidence"]
+related_people: ["Mai Xuan Trang, Ph.D", "Pham Tien Lam, Ph.D"]
 # type
 type: "post"
 ---

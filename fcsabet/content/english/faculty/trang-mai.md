@@ -10,7 +10,7 @@ image: "images/people/faculty/trang-mai.jpeg"
 # course
 course: "Computer Science"
 # biography
-bio: "Vice Dean of the Faculty"
+bio: "Vice Dean"
 pos: "Vice Dean"
 # interest
 interest: ["Deep Learning & AI", "LLM Applications","Cloud Computing"]
@@ -43,6 +43,8 @@ contact:
 
 # type
 type: "faculty"
+
+in_the_news: true
 ---
 
 ### Degrees

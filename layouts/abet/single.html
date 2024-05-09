@@ -40,12 +40,19 @@
     </div>
     <!-- course details -->
     <div class="row">
-      <div class="col-12 mb-4 content">
+      <div class="col-12 mb-4 content text-justify">
         {{ .Content }}
       </div>
     </div>
   </div>
 </section>
 <!-- /section -->
+<section class="section-sm">
+  <div class="container">
+    <div class="col-md-12 text-right">
+      <a href="{{ .Params.detail_url | relLangURL }}" class="btn btn-lg btn-outline-primary">{{ i18n "view_curriculum" }}</a>
+    </div>
+  </div>
+</section>
 
 {{ end }}

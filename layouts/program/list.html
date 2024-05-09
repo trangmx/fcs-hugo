@@ -1,12 +1,44 @@
 {{ define "main" }}
 
-<!-- courses -->
+<!-- Undergraduate Programmes -->
 <section class="section">
   <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h2 class="section-title">{{ i18n "undergrad_title" }}</h2>
+      </div>
+    </div>
+    <div class="row justify-content-md-center">
+      <div class="col col-lg-12 text-center">
+        <p class="mb-5">{{ .Params.undergrad_des }}</p>
+      </div>
+    </div>
+    <!-- program list -->
+    <div class="row justify-content-center">
+      <!-- program item -->
+      {{ range first 10 (where site.RegularPages "Type" "in" site.Params.undergraduate_type)}}
+      <div class="col-lg-4 col-sm-6">
+        {{ .Render "course" }}
+      </div>
+      {{ end }}
+    </div>
+    <!-- /program list -->
+  </div>
+</section>
+<!-- /Undergraduate Programmes -->
+
+<!-- Graduate Programmes -->
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h2 class="section-title">{{ i18n "grad_title" }}</h2>
+      </div>
+    </div>
     <!-- course list -->
     <div class="row justify-content-center">
       <!-- course item -->
-      {{ range first 10 (where site.RegularPages "Type" "in" site.Params.program_type)}}
+      {{ range first 10 (where site.RegularPages "Type" "in" site.Params.graduate_type)}}
       <div class="col-lg-4 col-sm-6 mb-5">
         {{ .Render "course" }}
       </div>
@@ -15,6 +47,6 @@
     <!-- /course list -->
   </div>
 </section>
-<!-- /courses -->
+<!-- /Graduate Programmes -->
 
 {{ end }}

@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/cs-page-title.jpg"
 # meta description
 description : "Software Engineering Program (Preparing for ABET accreditation)"
 # course thumbnail
-image: "images/programs/cs.png"
+image: "images/programs/se.jpeg"
 duration : "04 Years"
 category: "135 credits"
 # credits

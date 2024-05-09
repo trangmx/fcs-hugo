@@ -1,13 +1,13 @@
 ---
-title: "Master in Computer Science"
+title: "MSc. in Computer Science"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/cs-page-title.jpg"
 # meta description
-description : "Master Program in Computer Science"
+description : ""
 # course thumbnail
-image: "images/programs/cs.png"
+image: "images/programs/cs_master.jpeg"
 duration : "1.5 Years"
 category: "60 credits"
 # credits

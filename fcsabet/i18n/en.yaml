@@ -135,3 +135,13 @@
 
 - id: in_the_news
   translation: In the News
+
+
+- id: undergrad_title
+  translation: Undergraduate Programmes
+
+- id: grad_title
+  translation: Graduate Programmes 
+
+- id: view_curriculum
+  translation: View Course Curriculum >

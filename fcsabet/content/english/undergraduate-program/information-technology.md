@@ -7,17 +7,17 @@ bg_image: "images/backgrounds/cs-page-title.jpg"
 # meta description
 description : "Information Program Program"
 # course thumbnail
-image: "images/programs/cs.png"
+image: "images/programs/it.jpeg"
 duration : "04 Years"
 category: "136 credits"
 # credits
 credits: "136 credits"
-apply_url : "/contact"
+detail_url : "/undergraduate-program/information-technology/"
 # type
 type: "abet"
 ---
 
-The Phenikaa University [Information Technology program](https://cs.phenikaa-uni.edu.vn/vi/post/dao-tao/dao-tao-dai-hoc/cong-nghe-thong-tin) is being prepared for [ABET](https://www.abet.org/) accreditation by the Computing Accreditation Commission (CAC).
+Our Information Technology undergraduate program is being prepared for [ABET](https://www.abet.org/) accreditation by the Computing Accreditation Commission (CAC). In preparation for ABET accreditation, the program undergoes rigorous evaluation to ensure that it meets the established standards for quality and excellence in computer science education. This includes assessment of curriculum, faculty qualifications, student outcomes, facilities, and resources. By seeking ABET accreditation, the program demonstrates its commitment to continuous improvement and meeting the needs of students, employers, and the computing profession as a whole.
 
 
 ## Program Educational Objectives
@@ -42,7 +42,7 @@ The Phenikaa University [Information Technology program](https://cs.phenikaa-uni
 
 * **6.** Use systemic approaches to select, develop, apply, integrate, and administer secure computing technologies to accomplish user goals.
 
-## Undergraduate Enrollment and Degrees Award
+## Enrollment and Degree Data
 
 | Year | Enrollment | Degrees Awarded |
 |------|------------|-----------------|
@@ -51,3 +51,16 @@ The Phenikaa University [Information Technology program](https://cs.phenikaa-uni
 | 2021 |     310    |        0        |
 | 2020 |     140    |        0        |
 | 2019 |     50     |        0        |
+
+&nbsp;
+
+
+### Sampler of Courses
+
+TBU
+
+
+&nbsp;
+### What Students Could Be
+
+TBU

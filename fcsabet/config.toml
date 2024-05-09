@@ -63,6 +63,7 @@ google_analitycs_id = "" # your id
 top_header = true
 # program type
 program_type = ['graduate-program', 'undergraduate-program', 'abet']
+graduate_type = ['graduate-program', 'master-program', 'phd-program']
 undergraduate_type = ['undergraduate-program', 'abet']
 
 # Preloader

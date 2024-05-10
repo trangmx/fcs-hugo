@@ -47,7 +47,8 @@ Our Computer Science Undegraduate Program is being prepared for [ABET](https://w
 
 | Year | Enrollment | Degrees Awarded |
 |------|------------|-----------------|
-| 2023 |            |        0        |
+| 2024 |     0      |        0        |
+| 2023 |     79     |        0        |
 | 2022 |     51     |        0        |
 | 2021 |     50     |        0        |
 
